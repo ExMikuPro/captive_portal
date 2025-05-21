@@ -44,4 +44,4 @@ The configuration page includes:
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/ESP8266-CaptiveWiFiConfig.git
+git clone https://github.com/ExMikuPro/captive_portal.git
