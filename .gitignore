@@ -1,0 +1,46 @@
+# PlatformIO build folders
+.pio/
+.pioenvs/
+.piolibdeps/
+.pio-lock
+
+# IDE specific files
+.vscode/
+*.code-workspace
+
+# PlatformIO core files
+platformio.ini.save
+platformio_override.ini
+
+# Compiled files
+*.elf
+*.bin
+*.hex
+*.map
+
+# Arduino build logs
+*.d
+*.o
+*.a
+*.gcno
+*.gcda
+*.gcov
+
+# Backup files
+*~
+*.bak
+*.swp
+*.tmp
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Others
+*.log
