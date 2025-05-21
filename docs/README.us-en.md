@@ -23,7 +23,7 @@ This project provides a complete ESP8266-based WiFi configuration system. It inc
 ## 📷 UI Preview
 
 - ✅ **macOS**
-  ![macOS.png](docs/image/macOS.png)
+  ![macOS.png](image/macOS.png)
 
 The configuration page includes:
 - WiFi dropdown list (selectable)
